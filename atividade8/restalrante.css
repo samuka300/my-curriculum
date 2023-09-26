@@ -1,0 +1,60 @@
+.container {
+    display: inline-block;
+    margin-right: 20px;
+}
+.topo {
+    background-image: url('capa-vegon.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 2% 0;
+    text-align: center;
+    color: hsl(140, 93%, 49%);
+}
+.cont-infos {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.info a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.inicial {
+    background-image: url('vegon.jpg');
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    
+}
+.col2  {
+    display: inline-block;
+    padding: 10px 10px;
+    margin-top: 10px;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.col {
+    padding: 10px;
+    background-color: #327c00;
+    margin: 10px;
+    border-radius: 5px;
+}
+.col2 form{
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #52290e;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
