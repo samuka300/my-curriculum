@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/fundo.jpg);
+}
+
+img{
+    width: 650px;
+}
+
+button{
+    background-color: rgb(0, 38, 255);
+    width: 50px;
+    padding: 5px;
+}
