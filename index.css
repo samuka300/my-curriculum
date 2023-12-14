@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #88a8ff;
+    color: #226677;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  header {
+    background-color: #1f43a7;
+    color: #000000;
+    text-align: center;
+    padding: 1em 0;
+  }
+
+  img{
+    width: 200px;
+    height: 180px;
+  }
+
+  section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #cfcfcf;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+  }
+
+  h1, h2 {
+    color: #000000;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .skills div {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 3px;
+  }
+  button{
+    background-color: #4CAF50;
+    color: black;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 3px;
+
+  }
